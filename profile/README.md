@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <img src="https://dev-bee.com/Dev-Bee/assets/gif/programer.gif" alt="DevBee Inc Banner" width="400">
+  <img src="https://zatca.gov.sa/Style%20Library/GAZTinternet/new/images/header_logo.svg" alt="DevBee Inc Banner" width="400">
 </p>
 
 <h2 align="center">About Us</h2>
