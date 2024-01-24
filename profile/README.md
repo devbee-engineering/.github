@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://dev-bee.com/Dev-Bee/assets/Devbee.png" alt="devbee" width="200">
+  <img src="https://avatars.githubusercontent.com/u/121293216?s=200&v=4" alt="devbee" width="200">
 </p>
 
 <h1 align="center">Welcome to DevBee Inc 🚀</h1>
